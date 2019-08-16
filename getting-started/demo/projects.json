@@ -1,0 +1,41 @@
+{
+    "Cregit": {
+        "git": [
+            "https://github.com/cregit/cregit.git"
+        ],
+        "github": [
+            "https://github.com/cregit/cregit"
+        ]
+    },
+    "Perceval": {
+        "github": [
+            "https://github.com/grimoirelab/perceval"
+        ],
+        "meta": {
+            "title": "perceval"
+        },
+        "git": [
+            "https://github.com/grimoirelab/perceval.git"
+        ],
+        "pipermail": [
+            "https://lists.linuxfoundation.org/pipermail/grimoirelab-discussions/"
+        ]
+    },
+    "Women in IT": {
+        "meetup":[
+            "PyLadiesMadrid",
+            "WomenWhoCodeNYC",
+            "Women-Who-Code-SF"
+        ],
+        "git":[
+            "https://github.com/PyLadiesMadrid/taller_pyladiesmadrid_mujerestech.git",
+            "https://github.com/triketora/women-in-software-eng.git",
+            "https://github.com/fempire/women-tech-speakers-organizers.git"
+        ],
+        "github":[
+            "https://github.com/PyLadiesMadrid/taller_pyladiesmadrid_mujerestech",
+            "https://github.com/fempire/women-tech-speakers-organizers"
+        ]
+    }
+
+}
